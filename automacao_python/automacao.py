@@ -20,9 +20,9 @@ pyautogui.press("Enter")
 time.sleep(5)
 #Passo 3:Logar no site
 pyautogui.press("Tab")
-pyautogui.write("Grazi")
+pyautogui.write("Graziela")
 pyautogui.press("Tab")
-pyautogui.write("Linda")
+pyautogui.write("Lima")
 pyautogui.press("Tab")
 pyautogui.press("Enter")
 time.sleep(3)
@@ -77,3 +77,4 @@ for linha in tabela.index:
      #Scroll negativo desce a pagina e o positivo sobe
 
 #Passo 6: Repetir o processo com cada produto
+
